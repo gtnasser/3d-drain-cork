@@ -17,9 +17,9 @@ I printed it in PLA, achieving excellent results. I had to include a raft to pri
 
 ## Files
 
-drain-cork.stl | hook.sql | oi
----------- | ---------- | ---
-[drain-cork.stl]<img src="./assets/drain-cork.png" width="200"> | ![hook.stl]<img src="./assets/hook.png" width="200">| ![Alt text](https://licensebuttons.net/p/zero/1.0/88x31.png)
+drain-cork.stl | hook.sql
+---------- | ----------
+[<img src="./assets/drain-cork.png" width="200">](./assets/drain-cork.stl) | [<img src="./assets/hook.png" width="200">](./assets/hook.stl)
 
 ## Tags
 
