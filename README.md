@@ -10,13 +10,16 @@ I printed it in PLA, achieving excellent results. I had to include a raft to pri
 
 ## Pictures
 
-<img src="./assets/20250608_205521.jpg" height="200" width="200">
-<img src="./assets/20250608_205659.jpg" height="200" width="200">
+<p float="left">
+    <img src="./assets/20250608_205521.jpg" height="200" width="200">
+    <img src="./assets/20250608_205659.jpg" height="200" width="200">
+</p>
 
 ## Files
 
-<img src="./assets/drain-cork.png" width="200"> "drain-cork.stl"
-<img src="./assets/hook.png" width="200"> "hook.sql"
+drain-cork.stl | hook.sql | oi
+---------- | ---------- | ---
+[drain-cork.stl]<img src="./assets/drain-cork.png" width="200"> | ![hook.stl]<img src="./assets/hook.png" width="200">| ![Alt text](https://licensebuttons.net/p/zero/1.0/88x31.png)
 
 ## Tags
 
@@ -38,6 +41,3 @@ Creative Commons LicenseThis work is licensed under a [Creative Commons (Interna
 - :heavy_check_mark: Free Cultural Works
 - :heavy_check_mark: Meets Open Definition
 
-## Files
-
-<img src="https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png" width="400">
