@@ -34,15 +34,19 @@ The author marked this model as their own original creation.
 
 ## License
 
-Creative Commons LicenseThis work is licensed under a [Creative Commons (International License)](https://creativecommons.org/share-your-work/public-domain/cc0/)
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Public Domain
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
-![Public Domain](https://licensebuttons.net/p/zero/1.0/88x31.png "Public Domain")
+[![CC BY 4.0][cc-by-image]][cc-by]
 
-- :heavy_check_mark: Sharing without ATTRIBUTION
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+- :x: Sharing without ATTRIBUTION
 - :heavy_check_mark: Remix Culture allowed
 - :heavy_check_mark: Commercial Use
 - :heavy_check_mark: Free Cultural Works
 - :heavy_check_mark: Meets Open Definition
-
