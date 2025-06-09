@@ -11,8 +11,11 @@ I printed it in PLA, achieving excellent results. I had to include a raft to pri
 ## Pictures
 
 <p float="left">
+    &nbsp;
     <img src="./assets/20250608_205521.jpg" height="200" width="200">
+    &nbsp;
     <img src="./assets/20250608_205659.jpg" height="200" width="200">
+    &nbsp;
 </p>
 
 ## Files
@@ -33,7 +36,9 @@ The author marked this model as their own original creation.
 
 Creative Commons LicenseThis work is licensed under a [Creative Commons (International License)](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
-![Alt text](https://licensebuttons.net/p/zero/1.0/88x31.png "Public Domain")
+Public Domain
+
+![Public Domain](https://licensebuttons.net/p/zero/1.0/88x31.png "Public Domain")
 
 - :heavy_check_mark: Sharing without ATTRIBUTION
 - :heavy_check_mark: Remix Culture allowed
